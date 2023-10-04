@@ -10,6 +10,10 @@ rename the texture paths inside the mesh to use a unique path, as well as format
 so that they can be seen by this plugin. Simply drag a zip file containing the main menu file logo.nif
 onto the exe and it will automagically create a new properly formatted zip for easy install into Mod Organizer.
 
+# Requirements
+SKSE for Skyrim Special Edition
+Address Library (This plugin should work with either SE (1.5.X) or AE (1.6.X) versions of Skyrim SE)
+
 # Issues
 Files in archives are currently unsupported.
 The golden icon on the AE Upgrade version of the game might not be properly replaced.
