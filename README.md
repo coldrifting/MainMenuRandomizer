@@ -7,8 +7,16 @@ If no meshes are found there, the default main menu icon will display instead.
 
 Since many main menu replacers use the same texture file, I've created a utility to automatically
 rename the texture paths inside the mesh to use a unique path, as well as format the mesh correclty
-so that they can be seen by this plugin. Simply drag a zip file containing the main menu file logo.nif
+so that they can be seen by this plugin. 
+
+You can find this utility here: https://github.com/coldrifting/MainMenuAdapter
+
+Simply drag a mod zip file containing the main menu mesh logo.nif or logo01ae.nif
 onto the exe and it will automagically create a new properly formatted zip for easy install into Mod Organizer.
+
+# Requirements
+SKSE for Skyrim Special Edition
+Address Library (This plugin should work with either SE (1.5.X) or AE (1.6.X) versions of Skyrim SE)
 
 # Issues
 Files in archives are currently unsupported.
