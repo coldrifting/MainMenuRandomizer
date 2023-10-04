@@ -1,4 +1,4 @@
-# Main Menu Randomizer
+# Main Menu Mesh Randomizer
 This SKSE plugin randomizes the main menu background by
 replacing the mesh the main menu loads at runtime with a random mesh
 located in the 'Data/Meshes/Interface/MainMenu' folder.
